@@ -1,0 +1,75 @@
+:root {
+
+}
+
+body {
+    background-image: url("color.jpg");
+    background-size: 100%;
+    padding-left: 2rem;
+    padding-right: 3rem;
+    margin-bottom: 20%;
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+    color: rgb(82, 10, 10);
+    margin-top: 3rem;
+    text-decoration: underline;
+    margin-left: 4%;
+}
+
+label {
+    display: block;
+    margin-left: 47%;
+    margin-top: 2rem;
+    font-size: x-large;
+}
+
+input {
+    display: block;
+    text-align: center;
+    margin-left: 43%;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    font-size: medium;
+}
+
+.btn1 {
+    margin-left: 37%;
+    text-align: center;
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+    font-size: medium;
+}
+
+.btn2 {
+    text-align: center;
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+    font-size: medium;
+}
+
+.btn3 {
+    text-align: center;
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+    font-size: medium;
+}
+
+.btn4 {
+    text-align: center;
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+    font-size: medium;
+}
+
+.output {
+    margin-top: 3rem;
+    text-align: center;
+    font-size: x-large;
+    background-color: aqua;
+    margin-left: 32%;
+    margin-right: 30%;
+    border-radius: 1rem;
+}
